@@ -2,6 +2,7 @@
 from ftplib import FTP
 import os
 import socket
+
 ###########################################################################################
 # You may only need to modify below config, then can use this script on your ftp server,  #
 # Other issue you may need check the code or contact me through e-mail: lbing0220@126.com #
